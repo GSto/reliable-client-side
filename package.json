@@ -1,0 +1,25 @@
+{
+  "name": "reliable-client-side",
+  "version": "0.0.0",
+  "description": "Example code from Building Reliable Web Apps presentation",
+  "main": "SpecRunner.html",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jasmine": "^0.8.1",
+    "jquery": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GSto/reliable-client-side"
+  },
+  "author": "Glenn Stovall (glenn@concordantsolutions.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSto/reliable-client-side/issues"
+  },
+  "homepage": "https://github.com/GSto/reliable-client-side"
+}
